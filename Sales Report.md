@@ -1,4 +1,4 @@
-# PowerBI
+# PowerBI - Sales Report
 
 Link to a Sales Report:
 
